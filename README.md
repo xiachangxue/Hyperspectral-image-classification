@@ -15,4 +15,4 @@ pages={5408-5423},
 keywords={Hyperspectral imaging;Machine learning;Kernel;Context modeling;Convolution;Task analysis;Convolutional neural network      (CNN);deep learning;hyperspectral image}, 
 doi={10.1109/TGRS.2018.2815613}, 
 ISSN={0196-2892}, 
-month={Sep.},}```
+month={Sep.},}
