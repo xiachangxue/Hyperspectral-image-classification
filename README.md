@@ -1,5 +1,5 @@
 # Hyperspectral-image-classification
-This code is [Recurrent 3D Convolutional Neural Network for Hyperspectral image classification.](https://ieeexplore.ieee.org/document/8340197)
+This code is Recurrent 3D-CNN for the paper [Hyperspectral image classification With Deep Learning Models.](https://ieeexplore.ieee.org/document/8340197)
 
 # Citation
 If you find this project useful, we would be grateful if you cite the TensorLayer paper：
